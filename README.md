@@ -1,2 +1,8 @@
 # EBB42V1.2CANBOOT
 How to set up Klipper and CanBoot on a BTT EBB42 v1.2 toolhead and CanBus on RPi using CANHAT.  Ported from https://maz0r.github.io/klipper_canbus/toolhead/ebb36-42_v1.1.html
+
+I had a heck of a time getting this set up.  BTT's instructions are...not great.  I was pointed to Maz0r's instructions and will mirror them here.  I have archived them so if something happens to github.io I can 
+
+https://maz0r.github.io/klipper_canbus/ -->  Main starting page.
+https://maz0r.github.io/klipper_canbus/toolhead/ebb36-42_v1.1.html --> BTT EBB42 v1.1/v1.12 instructions
+https://maz0r.github.io/klipper_canbus/controller/rs485.html - Raspberry Pi CANHAT instructions

@@ -12,3 +12,5 @@ https://maz0r.github.io/klipper_canbus/controller/rs485.html - Raspberry Pi CANH
 
 
 I may also work on an ESP32-based CANBus controller to remove the need to run Klipper on an RPi with a CANHat.
+
+Will update this to cover the EBB36v1.2 as soon as that is delivered.  
